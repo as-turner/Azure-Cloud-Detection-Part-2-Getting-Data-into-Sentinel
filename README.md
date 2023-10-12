@@ -1,0 +1,1 @@
+# Azure-Cloud-Detection-Part-2-Getting-Data-into-Sentinel
